@@ -1,5 +1,5 @@
 # Calculadora
 
-Realizada por Pedro Lamberto Barizon
-Pedro Muniz 
-Matheus Ozorio 
+Realizada por Pedro Lamberto Barizon.
+Pedro Muniz.
+Matheus Ozorio.
